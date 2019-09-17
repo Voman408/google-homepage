@@ -1,0 +1,43 @@
+.topleft {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.topright {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.bottomleft {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.bottomright {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.form {
+  display: block;
+  text-align: center;
+  padding: 10px 10px;
+}
+
+.bcenter {
+  padding-top: 10px;
+  position: block;
+  text-align: center;
+}
+
+#resize {
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
